@@ -45,8 +45,8 @@ const works = [
     imgSrc: '/images/project-6.jpg',
     title: 'Personal portfolio',
     tags: ['Web-design', 'Development'],
-    projectLink: '',
-    githubLink: 'https://github.com/yourusername/portfolio'
+    projectLink: 'https://portfolio-m1h09rrq4-faizans-projects-eba7961e.vercel.app',
+    githubLink: 'https://github.com/MuFaizann/portfolioWeb'
   },
 ];
 
