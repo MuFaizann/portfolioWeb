@@ -20,7 +20,7 @@ const Hero = () => {
           <ButtonPrimary
               label="Download CV"
               icon="download"
-              href="/images/FaizanResume.pdf"
+              href="/images/faizanRes.pdf"
               target="_blank"
               classes=""
             />
