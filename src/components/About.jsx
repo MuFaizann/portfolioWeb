@@ -27,13 +27,3 @@ const About = () => {
 }
 
 export default About
-
-/*
-Welcome! I am Faizan, I have a background in Computer Science and experience in frontend development.
-          I specialize in building clean, interactive user experiences. With a understanding of Agile methodologies
-          and Software Development Life Cycles (SDLC), I bring both technical expertise and project management skills
-          to the table. I'm familiar with tools like Jira, and Slack to keep teams aligned and projects
-          moving forward. Whether I'm writing code or driving progress, I focus on clarity, collaboration,
-          and results.
-      */
-
